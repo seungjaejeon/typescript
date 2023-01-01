@@ -10,5 +10,14 @@
   "directories": {
     "test": "test"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seungjaejeon/typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seungjaejeon/typescript/issues"
+  },
+  "homepage": "https://github.com/seungjaejeon/typescript#readme",
   "description": ""
 }
